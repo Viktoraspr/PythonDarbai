@@ -1,2 +1,4 @@
 # PythonDarbai
-Ivairus Python darbai
+
+
+Python codes
